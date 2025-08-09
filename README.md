@@ -1,20 +1,12 @@
-## Hi there 👋
+## Pet Project
 
-<!--
-**staifmatej/staifmatej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-dssdsd
-sdsdsd
-sdsdsd
+## 👤 Author
+My name is Matej Staif, born in 2003 in North of the Czech Republic, i live in Czechia.
+
+I currently studying bachelors degree at CTU FIT.
+
+v pripade zajmu me, dotazu ci nalezeni chyby v mych repozitarich me prosim kontaktujte
+mail: staifmat@fit.cvut.cz
