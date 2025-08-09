@@ -1,6 +1,6 @@
 ## Pet Project
 
-[prg-precipitation-forecast-hmm](https://github.com/matejstaif/prg-precipitation-forecast-hmm)
+[prg-precipitation-forecast-hmm](https://github.com/staifmatej/prg-precipitation-forecast-hmm)
 
 
 
