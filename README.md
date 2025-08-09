@@ -7,9 +7,8 @@
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network)
 
 ## 👤 Author
-My name is Matej Staif, born in 2003 in North of the Czech Republic, i live in Czechia.
+My name is Matej Staif, born in 2003 in the north of the Czech Republic. I live in Czechia.
 
-I currently studying bachelors degree at CTU FIT.
+I am currently studying a bachelor’s degree at CTU FIT.
 
-v pripade zajmu me, dotazu ci nalezeni chyby v mych repozitarich me prosim kontaktujte
-mail: staifmat@fit.cvut.cz
+If you have any questions, feedback, or find any issues in my repositories, please feel free to contact me at mail: staifmat@fit.cvut.cz
