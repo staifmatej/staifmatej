@@ -2,7 +2,7 @@
 
 [prg-precipitation-forecast-hmm](https://github.com/staifmatej/prg-precipitation-forecast-hmm) (May 2025, developed over 16 weeks)
 
-- Created as semester project for Python course @ CTU FIT
+- Created as semester project for Python course @ CTU FIT.
 
 - Implements three Hidden Markov Model variants (Discrete, Gaussian Mixture, Variational) for Prague precipitation forecasting using 25 years of meteorological data. Achieved 64.91% accuracy with GMM-HMM, outperforming naive baseline through Bayesian optimization and sliding window backtesting.
 
@@ -13,7 +13,9 @@
 
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 3 days intensively)
 
-- Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate library, and I wanted to try implementing a Gaussian Bayesian Network completely from scratch
+- Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate library, and I wanted to try implementing a Gaussian Bayesian Network completely from scratch.
+
+- Simulates an internal mathematical model for Bayesianhill Bank that trains a Gaussian Bayesian Network on CSV data from clients who have already repaid or defaulted on their mortgages. Based on this historical data, the model calculates the probability that a new mortgage applicant will successfully repay their loan when a banker inputs their information into the system, including loan amount and repayment period to assess risk based on borrowing parameters.
 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I live in Czechia.
