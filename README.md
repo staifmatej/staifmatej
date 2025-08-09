@@ -2,6 +2,7 @@
 
 [prg-precipitation-forecast-hmm](https://github.com/staifmatej/prg-precipitation-forecast-hmm)
 
+[linear-least-squares-methods](https://github.com/staifmatej/linear-least-squares-methods)
 
 
 ## 👤 Author
