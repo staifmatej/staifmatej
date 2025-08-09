@@ -9,11 +9,11 @@
 [linear-least-squares-methods](https://github.com/staifmatej/linear-least-squares-methods) (July 2025, 2 weeks intensively)
 - Created during summer 2025 after completing Linear Algebra II @ CTU FIT, where I learned about the Least Squares Method and wanted to practically expand my theoretical knowledge by applying it to regression models.
   
-- Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies and demonstrates significant speed improvements with JIT compilation over pure Python.
+- Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies, curve fitting for sixteen mathematical functions, and demonstrates significant speed improvements with JIT compilation over pure Python.
 
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 3 days intensively)
 
-- Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate, and I wanted to try implementing one completely from scratch myself
+- Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate library, and I wanted to try implementing a Gaussian Bayesian Network completely from scratch
 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I live in Czechia.
