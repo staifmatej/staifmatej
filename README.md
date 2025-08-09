@@ -4,6 +4,7 @@
 
 [linear-least-squares-methods](https://github.com/staifmatej/linear-least-squares-methods)
 
+[mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network)
 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in North of the Czech Republic, i live in Czechia.
