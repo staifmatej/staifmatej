@@ -11,7 +11,7 @@
   
 - Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies, curve fitting for sixteen mathematical functions, and demonstrates significant speed improvements with JIT compilation over pure Python.
 
-[mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 3 days intensively)
+[mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 3 days intensively) - **IN PROGRESS**
 
 - Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate library, and I wanted to try implementing a Gaussian Bayesian Network completely from scratch.
 
