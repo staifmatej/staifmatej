@@ -13,7 +13,7 @@
 
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 3 days intensively)
 
-- Created while taking Harvard's CS50's Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using Pomegranate library, and I wanted to try implementing a Gaussian Bayesian Network completely from scratch.
+- Created while taking Harvard’s CS50’s Introduction to Artificial Intelligence with Python, where discrete Bayesian networks were covered using the Pomegranate library, and I implemented a Gaussian Bayesian Network using the pgmpy library.
 
 - Simulates an internal mathematical model for Bayesianhill Bank that trains a Gaussian Bayesian Network on CSV data from clients who have already repaid or defaulted on their mortgages. Based on this historical data, the model calculates the probability that a new mortgage applicant will successfully repay their loan when a banker inputs their information into the system, including loan amount and repayment period to assess risk based on borrowing parameters.
 
