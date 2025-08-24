@@ -8,7 +8,7 @@
   
 - Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies, curve fitting for sixteen mathematical functions, and demonstrates significant speed improvements with JIT compilation over pure Python.
 
-[mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, 9 days intensively)🐍
+[mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, developed over 3 weeks))🐍
 
 
 - Simulates an internal mathematical model for Bayesianhill Bank that trains a Gaussian Bayesian Network on CSV data from clients who have already repaid or defaulted on their mortgages. Based on this historical data, the model calculates the probability that a new mortgage applicant will successfully repay their loan when a banker inputs their information into the system, including loan amount and repayment period to assess risk based on borrowing parameters.
