@@ -11,7 +11,7 @@
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, developed over 3 weeks))🐍
 
 
-- Implements a Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios (15% reduced salaries, 30% increased interest rates) demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
+- Implements a Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
 
 
 ## 👤 Author
