@@ -11,7 +11,8 @@
 [mortgage_approval_bayesian_network](https://github.com/staifmatej/mortgage_approval_bayesian_network) (August 2025, developed over 3 weeks))🐍
 
 
-- Simulates an internal mathematical model for Bayesianhill Bank that trains a Gaussian Bayesian Network on CSV data from clients who have already repaid or defaulted on their mortgages. Based on this historical data, the model calculates the probability that a new mortgage applicant will successfully repay their loan when a banker inputs their information into the system, including loan amount and repayment period to assess risk based on borrowing parameters.
+- Implements a 27-node Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios (15% reduced salaries, 30% increased interest rates) demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
+
 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I live in the Greater Prague Area, Czechia.
