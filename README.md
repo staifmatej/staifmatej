@@ -13,7 +13,6 @@
 
 - Implements a Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
 
-
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I currently live in the Prague Metropolitan Area in Czechia.
 
