@@ -15,7 +15,7 @@
 
 
 ## 👤 Author
-My name is Matej Staif, born in 2003 in the north of the Czech Republic. I live in the Greater Prague Area, Czechia.
+My name is Matej Staif, born in 2003 in the north of the Czech Republic. I currently live in the Prague Metropolitan Area in Czechia.
 
 I am currently pursuing a bachelor's degree @ CTU FIT.
 
