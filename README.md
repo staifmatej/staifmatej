@@ -13,11 +13,10 @@
 
 - Implements a Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
 
-<!--## Academic Work-->
+## Academic Notes 
 
-<!--[bi-ml1] (February 2026)-->
-
-<!-- - Write notes in LaTeX for Machine Learning I course at CTU FIT. Pouzil jsem je jako material pro studium na zkousku z onoho predmetu.-->
+[bi-ml1](https://github.com/staifmatej/bi-ml1) (February 2026)
+- Comprehensive LaTeX study notes in Czech for Machine Learning I course at CTU FIT covering all 17 oral exam questions.
 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I currently live in the Prague Metropolitan Area in Czechia.
