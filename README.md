@@ -15,9 +15,10 @@
 
 ## Academic Notes 
 
-[bi-ml1](https://github.com/staifmatej/bi-ml1) (February 2026)
-- Comprehensive LaTeX study notes in Czech for Machine Learning I course at CTU FIT covering all 17 oral exam questions.
+[bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
+- Study notes written in LaTeX covering the whole subject as preparation for oral exam from Machine Learning 1 (BI-ML1) at CTU FIT. I created this document with the goal not only to pass the course, but also to understand the material in depth as much as possible.
 
+ 
 ## 👤 Author
 My name is Matej Staif, born in 2003 in the north of the Czech Republic. I currently live in the Prague Metropolitan Area in Czechia.
 
