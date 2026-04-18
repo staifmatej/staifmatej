@@ -13,7 +13,7 @@
 
 - Implements a Linear Gaussian Bayesian Network using pgmpy for mortgage approval decisions, trained on synthetic historical client data. Features comprehensive stress-testing under economic downturn scenarios demonstrating model robustness and generalization capability. Includes evaluation framework with confusion matrices and ROC curves for risk assessment validation.
 
-## Academic Notes
+## Study Notes
 
  [bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
 Study notes written in LaTeX covering the whole subject as preparation for oral exam from Machine Learning 1 (BI-ML1) at CTU FIT. I created this document with the goal not only to pass the course, but also to understand the material in depth as much as possible.
