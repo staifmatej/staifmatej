@@ -15,8 +15,6 @@ Study notes written in LaTeX covering the whole subject as preparation for oral 
 
  
 ## 👤 Author
-My name is Matej Staif, born in 2003 in the north of the Czech Republic. I currently live in the Prague Metropolitan Area in Czechia.
-
-I am currently pursuing a bachelor's degree @ CTU FIT.
+My name is Matej Staif. I live in the Prague Metropolitan Area, Czechia, and I am currently pursuing a bachelor's degree at CTU FIT.
 
 If you have any questions, feedback, or find any issues in my repositories, please feel free to contact me via email: staifmat@fit.cvut.cz
