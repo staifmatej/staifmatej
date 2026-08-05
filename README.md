@@ -8,7 +8,7 @@
   
 - Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies, curve fitting for sixteen mathematical functions, and demonstrates significant speed improvements with JIT compilation over pure Python.
 
-[chessrank.org](https://chessrank.org) (2025 – present, ongoing)♟️
+[chessrank.org](https://chessrank.org) (July 2026 – present, ongoing)♟️
 - Free chess analysis platform I designed, built and run solo. Stockfish compiled to WebAssembly evaluates every position client-side, so no game data is sent to a server for analysis. Move-by-move game review with accuracy and move classification, a tactics trainer, blunder puzzles generated from your own games, playable bots and a personal statistics report — 18 languages, no signup. Closed source, hosted at [chessrank.org](https://chessrank.org)
 
 ## Academic Notes
