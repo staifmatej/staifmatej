@@ -12,11 +12,12 @@
 - A free chess analysis and statistics platform that I designed, built and run on my own.
   It works with chess.com, lichess.org, or a pasted PGN. You get free game reviews by simply
   entering your username, plus tactics puzzles, blunder puzzles generated from your own
-  mistakes, 10 bots rated from 200 to 2000 ELO, Opponent prep (a bot that imitates the
-  opening habits of any username you enter), advanced statistics from your own games,
-  crazy puzzles (a fun way to improve), and much more. The site is available in 18 languages
-  and Coach Moji helps you throughout: it suggests a move when you are stuck in a game
-  against a bot, and in the Game Analysis section it explains why one move was weak and
+  mistakes, 10 bots rated from 200 to 2000 ELO, Opponent prep (enter any username and the
+  bot will imitate that player's full style, from the opening through the middlegame to the
+  endgame, and it also matches their playing strength), advanced statistics from your own
+  games, crazy puzzles (a fun way to improve), and much more. The site is available in 18
+  languages and Coach Moji helps you throughout: it suggests a move when you are stuck in a
+  game against a bot, and in the Game Analysis section it explains why one move was weak and
   another one strong.
 
 
