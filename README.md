@@ -16,7 +16,7 @@
   bot will imitate that player's full style, from the opening through the middlegame to the
   endgame, and it also matches their playing strength), advanced statistics from your own
   games, crazy puzzles (a fun way to improve), and much more. The site is available in 18
-  languages and Coach Moji guides you throughout — hints when you are stuck, explanations of why a move was weak or strong, and something to say about almost anything you do on the site.
+  languages and Coach Moji guides you throughout: hints when you are stuck, explanations of why a move was weak or strong, and something to say about almost anything you do on the site.
 
 
  [bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
