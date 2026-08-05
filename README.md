@@ -12,7 +12,7 @@
 - A free chess analysis and statistics platform that I designed, built and run on my own.
   It works with chess.com, lichess.org, or a pasted PGN. You get free game reviews by simply
   entering your username, plus tactics puzzles, blunder puzzles generated from your own
-  mistakes, 10 bots rated from 200 to 2000 ELO, Opponent prep (enter any username and the
+  mistakes, 10 bots rated from 200 to 2000 ELO, opponent prep (enter any username and the
   bot will imitate that player's full style, from the opening through the middlegame to the
   endgame, and it also matches their playing strength), advanced statistics from your own
   games, crazy puzzles (a fun way to improve), and much more. The site is available in 18
