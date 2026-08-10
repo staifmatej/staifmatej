@@ -9,14 +9,7 @@
 - Implements four regression models from scratch using three computational approaches (Pure Python, NumPy, Numba JIT). Features performance benchmarking across implementation strategies, curve fitting for sixteen mathematical functions, and demonstrates significant speed improvements with JIT compilation over pure Python.
 
 [chessrank.org](https://chessrank.org) (July 2026 - present, ongoing)♟️
-- A free chess analysis and statistics platform that I designed, built and run on my own.
-  It works with chess.com, lichess.org, or a pasted PGN. You get free game reviews by simply
-  entering your username, plus tactics puzzles, blunder puzzles generated from your own
-  mistakes, 10 bots rated from 200 to 2000 ELO, opponent prep (enter any username and the
-  bot will imitate that player's full style, from the opening through the middlegame to the
-  endgame, and it also matches their playing strength), advanced statistics from your own
-  games, crazy puzzles (a fun way to improve), and much more. The site is available in 18
-  languages and Coach Moji guides you throughout. Hints when you are stuck, explanations of why a move was weak or strong, and something to say about almost anything you do on the site.
+- The ultimate free chess platform to improve your games and boost your rating. It works with lichess.org and chess.com, which are two of the most popular chess platforms in the world. Chessrank offers a wide range of tools to improve your playing habits, from analyzing your own games to solving puzzles generated directly from your matches. You can play against bots, view advanced statistics, or use chessrank.org tools to prepare for specific opponents. Chessrank offers a lot, all with the goal of being a free companion platform to chess.com or lichess.org and others. You play a game online and then come to train on chessrank.org so you do not make the same mistakes next time. Everything is supported by Coach Moji, who communicates interactively with the player and explains, for example, why a certain move was good and why the move the user played was bad. At the same time, Coach Moji gives hints and helps the user when they get stuck and do not know what to do next. Just like the website, Coach Moji is available in 18 languages.
 
 
  [bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
