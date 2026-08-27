@@ -10,7 +10,7 @@
 
 [chessrank.org](https://chessrank.org) (July 2026 - present)♟️
 
-- The ultimate free chess platform to improve your games and boost your rating. It imports your games from [lichess.org](https://lichess.org/) and [chess.com](https://www.chess.com/) through their public APIs, so you can analyze what you actually played. The main tools of the project are game analysis, puzzles generated from your own matches, bots to play against, advanced statistics, and opponent preparation and much more. Everything is supported by AI Coach Moji, an interactive coach that explains why a move was good or bad, and gives hints when you get stuck, of course in 18 languages.
+- The ultimate free chess platform to improve your games and boost your rating. It imports your games from [lichess.org](https://lichess.org/) and [chess.com](https://www.chess.com/) through their public APIs, so you can analyze what you actually played. The main tools of the project are game analysis, puzzles generated from your own matches, bots to play against, advanced statistics, opponent preparation and much more. Everything is supported by AI Coach Moji, an interactive coach that explains why a move was good or bad, and gives hints when you get stuck, of course in 18 languages.
 
  [bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
 Study notes written in LaTeX covering the whole subject as preparation for oral exam from Machine Learning 1 (BI-ML1) at CTU FIT. I created this document with the goal not only to pass the course, but also to understand the material in depth as much as possible.
