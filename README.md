@@ -12,6 +12,8 @@
 
 - The free chess training platform to improve your games. It imports your games from [lichess.org](https://lichess.org/) and [chess.com](https://www.chess.com/) through their public APIs, so you can analyze what you actually played. The main tools of the project are game analysis, puzzles generated from your own matches, bots to play against, advanced statistics, opponent preparation and much more. Everything is supported by Chess Coach, an interactive coach that explains why a move was good or bad, and gives hints when you get stuck, of course in 19 languages.
 
+<img width="2400" height="800" alt="chessrank-wordmark-dark" src="https://github.com/user-attachments/assets/b88bd59b-7bfa-4e11-bfdd-7cfbc4b3db59" />
+
 ## Academic Notes
 
  [bi-ml1](https://github.com/staifmatej/bi-ml1) (Feb 2026)
